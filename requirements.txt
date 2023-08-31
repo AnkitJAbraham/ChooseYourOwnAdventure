@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+openai
+requests
+python-dotenv
+tenacity
